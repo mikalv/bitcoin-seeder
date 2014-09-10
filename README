@@ -1,4 +1,6 @@
-bitcoin-seeder
+Note: patches are not yet pushed to github. Under testing.
+
+Coin-seeder
 ==============
 
 Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
